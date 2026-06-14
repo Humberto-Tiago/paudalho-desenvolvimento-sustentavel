@@ -1,7 +1,7 @@
 # 🌱 Impulsionando o Desenvolvimento Sustentável de Paudalho/PE
 
 Projeto de Atividade Extensionista II — Centro Universitário Internacional UNINTER  
-Curso: CST em Ciência de Dados  
+Curso: Ciência de Dados  
 Aluno: Humberto Tiago Constantino de Oliveira
 
 ---
