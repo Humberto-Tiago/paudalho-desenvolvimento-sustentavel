@@ -10,6 +10,7 @@ Aluno: Humberto Tiago Constantino de Oliveira
 
 Análise de dados públicos do município de Paudalho/PE com foco em emprego, renda, estrutura produtiva e infraestrutura, utilizando a linguagem Python. O objetivo é identificar desafios e propor ações de melhoria alinhadas aos ODS 8 e 9 da ONU.
 
+
 ---
 
 ## 🎯 ODS contemplados
