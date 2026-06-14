@@ -58,7 +58,7 @@ python analise_paudalho_real.py
 
 ```
 📦 paudalho-desenvolvimento-sustentavel
- ┣ 📄 analise_paudalho_real.py
+ ┣ 📄 analise_paudalho.py
  ┣ 📁 graficos/
  ┃ ┣ 🖼️ composicao_pib_setores.png
  ┃ ┣ 🖼️ pib_per_capita_comparativo.png
