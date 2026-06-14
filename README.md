@@ -2,7 +2,7 @@
 
 Projeto de Atividade Extensionista II — Centro Universitário Internacional UNINTER  
 Curso: CST em Ciência de Dados  
-Aluno: Humberto Tiago Constantino de Oliveira (RU: 5331899)
+Aluno: Humberto Tiago Constantino de Oliveira
 
 ---
 
